@@ -1,3 +1,4 @@
+// 此版本需要额外存储空间
 export default function sort(arr) {
     let length = arr.length
     if (length < 2) {
